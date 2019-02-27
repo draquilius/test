@@ -3,7 +3,7 @@
     "require": {
 	
 	},
-    "version": "v0.0.1",
+    "version": "dev-master",
     "autoload": {
         "psr-4": {"Test\\": "src/"}
     }
